@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bbgame generated="2026-06-02T20:32:42.516Z">
+
+  <venue gameid="1" date="" location="" arena="" start="" attend=""/>
+
+  <team vh="H" id="HOME" code="HOME" name="Home Team" record="" conf-record="">
+    <totals><linescore score="0"/></totals>
+    <player uni="04" name="HAYNIE, Kristin" shortname="K. HAYNIE" pos="g">
+      <stats min="11" pts="2" fg="1" fga="1" fg3="2" fg3a="1" ft="1" fta="1" oreb="1" dreb="1" reb="1" ast="1" to="1" stl="2" blk="2" pf="2"/>
+    </player>
+    <player uni="20" name="BOWEN, Lindsay" shortname="L. BOWEN" pos="g">
+      <stats min="1" pts="2" fg="1" fga="1" fg3="1" fg3a="1" ft="1" fta="1"/>
+    </player>
+    <player uni="23" name="DONETH, Danielle" shortname="D. DONETH">
+      <stats min="1"/>
+    </player>
+    <player uni="24" name="HAYNES, Rene" shortname="R. HAYNES">
+      <stats min="1"/>
+    </player>
+    <player uni="25" name="DWYER, Maggie" shortname="M. DWYER">
+      <stats min="1"/>
+    </player>
+    <player uni="31" name="LUCAS-PERRY, Victoria" shortname="V. LUCAS-PERRY" pos="g"/>
+    <player uni="32" name="SMALL, Melanie" shortname="M. SMALL"/>
+    <player uni="42" name="ROEHRIG, Kelli" shortname="K. ROEHRIG" pos="c"/>
+    <player uni="44" name="GRANTHAM, Katrina" shortname="K. GRANTHAM"/>
+    <player uni="45" name="BANNISTER, Myisha" shortname="M. BANNISTER"/>
+    <player uni="52" name="SHIMEK, Liz" shortname="L. SHIMEK" pos="f"/>
+    <player uni="54" name="HALL, Laura" shortname="L. HALL">
+      <stats min="5" pts="5"/>
+    </player>
+    <player uni="TM" name="TEAM, " shortname=". TEAM"/>
+  </team>
+
+  <team vh="V" id="VIS" code="VIS" name="Visitor Team" record="" conf-record="">
+    <totals><linescore score="0"/></totals>
+    <player uni="01" name="JONES, Monique" shortname="M. JONES"/>
+    <player uni="02" name="WHITAKER, Chelsea" shortname="C. WHITAKER" pos="g"/>
+    <player uni="04" name="ONONIWU, Chisa" shortname="C. ONONIWU"/>
+    <player uni="05" name="FOX, Chanelle" shortname="C. FOX"/>
+    <player uni="12" name="WYATT, Latoya" shortname="L. WYATT"/>
+    <player uni="13" name="JONES, Victoria" shortname="V. JONES"/>
+    <player uni="20" name="TISDALE, Angela" shortname="A. TISDALE"/>
+    <player uni="21" name="SCOTT, Chameka" shortname="C. SCOTT" pos="g"/>
+    <player uni="22" name="DAVIS, Jordan" shortname="J. DAVIS"/>
+    <player uni="25" name="HAMERLY, Melanie" shortname="M. HAMERLY"/>
+    <player uni="33" name="YOUNG, Sophia" shortname="S. YOUNG" pos="f"/>
+    <player uni="35" name="WABARA, Abiola" shortname="A. WABARA" pos="f"/>
+    <player uni="45" name="BLACKMON, Steffanie" shortname="S. BLACKMON" pos="c"/>
+    <player uni="51" name="NIEMANN, Emily" shortname="E. NIEMANN"/>
+    <player uni="TM" name="TEAM, " shortname=". TEAM"/>
+  </team>
+
+</bbgame>
