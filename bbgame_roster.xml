@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bbgame generated="2026-06-03T13:27:49.877Z">
+<bbgame generated="2026-06-03T17:28:20.137Z">
 
-  <venue gameid="1" date="" location="" arena="" start="" attend=""/>
+  <venue gameid="1" date="2026/06/03" location="" arena="" start="" attend=""/>
 
-  <team vh="H" id="HOME" code="HOME" name="Home Team" record="" conf-record="">
+  <team vh="H" id="Home" code="Home" name="Home" record="" conf-record="">
     <totals><linescore score="0"/></totals>
     <player uni="04" name="HAYNIE, Kristin" shortname="K. HAYNIE" pos="g">
       <stats min="11" pts="2" fg="1" fga="1" fg3="2" fg3a="1" ft="1" fta="1" oreb="1" dreb="1" reb="1" ast="1" to="1" stl="2" blk="2" pf="2"/>
@@ -32,7 +32,7 @@
     <player uni="TM" name="TEAM, " shortname=". TEAM"/>
   </team>
 
-  <team vh="V" id="VIS" code="VIS" name="Visitor Team" record="" conf-record="">
+  <team vh="V" id="Visitor" code="Visitor" name="Visitor" record="" conf-record="">
     <totals><linescore score="0"/></totals>
     <player uni="01" name="JONES, Monique" shortname="M. JONES"/>
     <player uni="02" name="WHITAKER, Chelsea" shortname="C. WHITAKER" pos="g"/>
