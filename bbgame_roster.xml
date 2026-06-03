@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bbgame generated="2026-06-03T17:38:54.417Z">
+<bbgame generated="2026-06-03T17:39:18.857Z">
 
   <venue gameid="1" date="" location="" arena="" start="" attend=""/>
 
@@ -35,7 +35,7 @@
   <team vh="V" id="VIS" code="VIS" name="Visitor Team" record="" conf-record="">
     <totals><linescore score="0"/></totals>
     <player uni="01" name="JONES, Monique" shortname="M. JONES" gs="0">
-      <stats min="2"/>
+      <stats min="3"/>
     </player>
     <player uni="02" name="WHITAKER, Chelsea" shortname="C. WHITAKER" gs="0" pos="g">
       <stats min="2"/>
