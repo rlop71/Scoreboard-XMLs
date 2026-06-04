@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bbgame generated="2026-06-04T13:45:49.364Z">
+<bbgame generated="2026-06-04T14:16:48.556Z">
 
   <venue gameid="1" date="2026/06/04" location="" arena="" start="" attend=""/>
 
@@ -10,11 +10,11 @@
     <player uni="20" name="BOWEN, Lindsay" shortname="L. BOWEN" gs="0" checkyn="Y" pos="g"
       <stats min="1" pts="2" fg="1" fga="1" fg3="1" fg3a="1" ft="1" fta="1"/>/>
     <player uni="23" name="DONETH, Danielle" shortname="D. DONETH" gs="0" checkyn="Y"
-      <stats min="1"/>/>
+      <stats min="1" pts="2"/>/>
     <player uni="24" name="HAYNES, Rene" shortname="R. HAYNES" gs="0" checkyn="Y"
-      <stats min="1"/>/>
+      <stats min="1" pts="2"/>/>
     <player uni="25" name="DWYER, Maggie" shortname="M. DWYER" gs="0" checkyn="Y"
-      <stats min="1"/>/>
+      <stats min="1" pts="0"/>/>
     <player uni="31" name="LUCAS-PERRY, Victoria" shortname="V. LUCAS-PERRY" gs="0" checkyn="N" pos="g"/>
     <player uni="32" name="SMALL, Melanie" shortname="M. SMALL" gs="0" checkyn="N"/>
     <player uni="42" name="ROEHRIG, Kelli" shortname="K. ROEHRIG" gs="0" checkyn="N" pos="c"/>
