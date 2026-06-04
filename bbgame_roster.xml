@@ -18,10 +18,10 @@
     <totals>
       <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" deadball="0"></stats>
     </totals>
-    <player uni="04" code="04" name="HAYNIE,Kristin" checkname="HAYNIE,KRISTIN" gp="1" pos="g">
+    <player uni="04" code="04" name="HAYNIE,Kristin" checkname="HAYNIE,KRISTIN" gp="1" oncourt="Y" pos="g">
       <stats fgm="1" fga="1" fgm3="2" fga3="1" ftm="1" fta="1" tp="2" blk="2" stl="2" ast="1" min="11" oreb="1" dreb="1" treb="1" pf="2" tf="0" to="1" dq="0"></stats>
     </player>
-    <player uni="20" code="20" name="BOWEN,Lindsay" checkname="BOWEN,LINDSAY" gp="1" oncourt="Y" pos="g">
+    <player uni="20" code="20" name="BOWEN,Lindsay" checkname="BOWEN,LINDSAY" gp="1" pos="g">
       <stats fgm="1" fga="1" fgm3="1" fga3="1" ftm="1" fta="1" tp="2" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></stats>
     </player>
     <player uni="23" code="23" name="DONETH,Danielle" checkname="DONETH,DANIELLE" gp="1" oncourt="Y">
