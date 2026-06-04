@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bbgame source="Basketball Stats Manager" version="1.1.1" generated="6/4/2026">
   <venue gameid="1"
-         visid="VI" visname="Visitor"
-         homeid="HM" homename="Home"
-         date="2026/06/04" location="" time="" attend="" schednote=""
+         visid="VIS" visname="Visitor Team"
+         homeid="HOME" homename="Home Team"
+         date="" location="" time="" attend="" schednote=""
          leaguegame="N" neutralgame="N" postseason="N">
     <officials text=""></officials>
     <rules prds="2" minutes="20" minutesot="5" fouls="5" qh="H"></rules>
   </venue>
   <status complete="N" period="1" clock="20:00"></status>
 
-  <team vh="H" id="HM" name="Home" code="" record="">
+  <team vh="H" id="HOME" name="Home Team" code="" record="">
     <linescore line="0,0" score="0">
       <lineprd prd="1" score="0"></lineprd>
       <lineprd prd="2" score="0"></lineprd>
@@ -59,7 +59,7 @@
     </player>
   </team>
 
-  <team vh="V" id="VI" name="Visitor" code="" record="">
+  <team vh="V" id="VIS" name="Visitor Team" code="" record="">
     <linescore line="0,0" score="0">
       <lineprd prd="1" score="0"></lineprd>
       <lineprd prd="2" score="0"></lineprd>
