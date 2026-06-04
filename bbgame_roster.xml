@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bbgame generated="2026-06-03T17:39:18.857Z">
+<bbgame generated="2026-06-04T13:14:31.858Z">
 
   <venue gameid="1" date="" location="" arena="" start="" attend=""/>
 
@@ -54,7 +54,7 @@
     <player uni="51" name="NIEMANN, Emily" shortname="E. NIEMANN" gs="0"/>
     <player uni="TM" name="TEAM, " shortname=". TEAM" gs="0"/>
     <player uni="46" name="Watson, Alex" shortname="A. Watson" gs="0" pos="SG" ht="0-7" wt="185" class="Sr" hometown="Macon" highschool="Macon">
-      <stats min="5" pts="5" fg="5" fga="5" fg3="5" fg3a="5"/>
+      <stats min="10" pts="10" fg="10" fga="10" fg3="10" fg3a="10" ft="10" fta="10" oreb="3" dreb="2" reb="2" ast="4" to="4" stl="5" blk="4" pf="3"/>
     </player>
   </team>
 
