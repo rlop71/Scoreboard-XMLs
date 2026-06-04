@@ -1,52 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bbgame generated="2026-06-04T14:17:19.860Z">
+<bbgame generated="2026-06-04T15:40:23.519Z">
 
   <venue gameid="1" date="2026/06/04" location="" arena="" start="" attend=""/>
 
-  <team vh="H" id="home" code="home" name="Home" record="" conf-record="">
-    <totals fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" oreb="0" dreb="0" treb="0" ast="0" to="0" stl="0" blk="0" pf="0"><linescore score="0"><lineprd prd="1" score="0"/><lineprd prd="2" score="0"/></linescore></totals>
-    <player uni="04" name="HAYNIE, Kristin" shortname="K. HAYNIE" gs="0" checkyn="N" pos="g"
-      <stats min="11" pts="2" fg="1" fga="1" fg3="2" fg3a="1" ft="1" fta="1" oreb="1" dreb="1" reb="1" ast="1" to="1" stl="2" blk="2" pf="2"/>/>
-    <player uni="20" name="BOWEN, Lindsay" shortname="L. BOWEN" gs="0" checkyn="Y" pos="g"
-      <stats min="1" pts="2" fg="1" fga="1" fg3="1" fg3a="1" ft="1" fta="1" pf="2"/>/>
-    <player uni="23" name="DONETH, Danielle" shortname="D. DONETH" gs="0" checkyn="Y"
-      <stats min="1" pts="2" pf="2"/>/>
-    <player uni="24" name="HAYNES, Rene" shortname="R. HAYNES" gs="0" checkyn="Y"
-      <stats min="1" pts="2" pf="0"/>/>
-    <player uni="25" name="DWYER, Maggie" shortname="M. DWYER" gs="0" checkyn="Y"
-      <stats min="1" pts="0" pf="0"/>/>
-    <player uni="31" name="LUCAS-PERRY, Victoria" shortname="V. LUCAS-PERRY" gs="0" checkyn="N" pos="g"/>
-    <player uni="32" name="SMALL, Melanie" shortname="M. SMALL" gs="0" checkyn="N"/>
-    <player uni="42" name="ROEHRIG, Kelli" shortname="K. ROEHRIG" gs="0" checkyn="N" pos="c"/>
-    <player uni="44" name="GRANTHAM, Katrina" shortname="K. GRANTHAM" gs="0" checkyn="N"/>
-    <player uni="45" name="BANNISTER, Myisha" shortname="M. BANNISTER" gs="0" checkyn="N"/>
-    <player uni="52" name="SHIMEK, Liz" shortname="L. SHIMEK" gs="0" checkyn="N" pos="f"/>
-    <player uni="54" name="HALL, Laura" shortname="L. HALL" gs="0" checkyn="Y"
-      <stats min="5" pts="5" fg="5" fga="5" fg3="5" fg3a="5" ft="5" fta="5"/>/>
-    <player uni="TM" name="TEAM, " shortname=". TEAM" gs="0" checkyn="N"/>
+  <team vh="H" id="Home" code="Home" name="Home" record="" conf-record="">
+    <totals><linescore score="0"><lineprd prd="1" score="0"/><lineprd prd="2" score="0"/></linescore><stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" oreb="0" dreb="0" treb="0" ast="0" turnover="0" stl="0" blk="0" pf="0"/></totals>
+    <player uni="04" name="HAYNIE, Kristin" shortname="K. HAYNIE" gs="0" checkyn="N" oncourt="0" playing="0" pos="g" min="11" fgm="1" fga="1" fgm3="2" fga3="1" ftm="1" fta="1" tp="2" oreb="1" dreb="1" treb="1" ast="1" turnover="1" stl="2" blk="2" pf="2"/>
+    <player uni="20" name="BOWEN, Lindsay" shortname="L. BOWEN" gs="0" checkyn="Y" oncourt="1" playing="1" pos="g" min="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="1" fta="1" tp="2" pf="2"/>
+    <player uni="23" name="DONETH, Danielle" shortname="D. DONETH" gs="0" checkyn="Y" oncourt="1" playing="1" min="1" tp="2" pf="2"/>
+    <player uni="24" name="HAYNES, Rene" shortname="R. HAYNES" gs="0" checkyn="Y" oncourt="1" playing="1" min="1" tp="2" pf="0"/>
+    <player uni="25" name="DWYER, Maggie" shortname="M. DWYER" gs="0" checkyn="Y" oncourt="1" playing="1" min="1" tp="0" pf="0"/>
+    <player uni="31" name="LUCAS-PERRY, Victoria" shortname="V. LUCAS-PERRY" gs="0" checkyn="N" oncourt="0" playing="0" pos="g"/>
+    <player uni="32" name="SMALL, Melanie" shortname="M. SMALL" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="42" name="ROEHRIG, Kelli" shortname="K. ROEHRIG" gs="0" checkyn="N" oncourt="0" playing="0" pos="c"/>
+    <player uni="44" name="GRANTHAM, Katrina" shortname="K. GRANTHAM" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="45" name="BANNISTER, Myisha" shortname="M. BANNISTER" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="52" name="SHIMEK, Liz" shortname="L. SHIMEK" gs="0" checkyn="N" oncourt="0" playing="0" pos="f"/>
+    <player uni="54" name="HALL, Laura" shortname="L. HALL" gs="0" checkyn="Y" oncourt="1" playing="1" min="5" fgm="5" fga="5" fgm3="5" fga3="5" ftm="5" fta="5" tp="5"/>
+    <player uni="TM" name="TEAM, " shortname=". TEAM" gs="0" checkyn="N" oncourt="0" playing="0"/>
   </team>
 
-  <team vh="V" id="visitor" code="visitor" name="visitor" record="" conf-record="">
-    <totals fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" oreb="0" dreb="0" treb="0" ast="0" to="0" stl="0" blk="0" pf="0"><linescore score="0"><lineprd prd="1" score="0"/><lineprd prd="2" score="0"/></linescore></totals>
-    <player uni="01" name="JONES, Monique" shortname="M. JONES" gs="0" checkyn="Y"
-      <stats min="3"/>/>
-    <player uni="02" name="WHITAKER, Chelsea" shortname="C. WHITAKER" gs="0" checkyn="Y" pos="g"
-      <stats min="2"/>/>
-    <player uni="04" name="ONONIWU, Chisa" shortname="C. ONONIWU" gs="0" checkyn="Y"/>
-    <player uni="05" name="FOX, Chanelle" shortname="C. FOX" gs="0" checkyn="Y"/>
-    <player uni="12" name="WYATT, Latoya" shortname="L. WYATT" gs="0" checkyn="N"/>
-    <player uni="13" name="JONES, Victoria" shortname="V. JONES" gs="0" checkyn="N"/>
-    <player uni="20" name="TISDALE, Angela" shortname="A. TISDALE" gs="0" checkyn="N"/>
-    <player uni="21" name="SCOTT, Chameka" shortname="C. SCOTT" gs="0" checkyn="N" pos="g"/>
-    <player uni="22" name="DAVIS, Jordan" shortname="J. DAVIS" gs="0" checkyn="N"/>
-    <player uni="25" name="HAMERLY, Melanie" shortname="M. HAMERLY" gs="0" checkyn="N"/>
-    <player uni="33" name="YOUNG, Sophia" shortname="S. YOUNG" gs="0" checkyn="N" pos="f"/>
-    <player uni="35" name="WABARA, Abiola" shortname="A. WABARA" gs="0" checkyn="N" pos="f"/>
-    <player uni="45" name="BLACKMON, Steffanie" shortname="S. BLACKMON" gs="0" checkyn="N" pos="c"/>
-    <player uni="51" name="NIEMANN, Emily" shortname="E. NIEMANN" gs="0" checkyn="N"/>
-    <player uni="TM" name="TEAM, " shortname=". TEAM" gs="0" checkyn="N"/>
-    <player uni="46" name="Watson, Alex" shortname="A. Watson" gs="0" checkyn="Y" pos="SG" ht="0-7" wt="185" class="Sr" hometown="Macon" highschool="Macon"
-      <stats min="10" pts="10" fg="10" fga="10" fg3="10" fg3a="10" ft="10" fta="10" oreb="3" dreb="2" reb="2" ast="4" to="4" stl="5" blk="4" pf="3"/>/>
+  <team vh="V" id="Visitor" code="Visitor" name="Visitor" record="" conf-record="">
+    <totals><linescore score="0"><lineprd prd="1" score="0"/><lineprd prd="2" score="0"/></linescore><stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" oreb="0" dreb="0" treb="0" ast="0" turnover="0" stl="0" blk="0" pf="0"/></totals>
+    <player uni="01" name="JONES, Monique" shortname="M. JONES" gs="0" checkyn="Y" oncourt="1" playing="1" min="3"/>
+    <player uni="02" name="WHITAKER, Chelsea" shortname="C. WHITAKER" gs="0" checkyn="Y" oncourt="1" playing="1" pos="g" min="2"/>
+    <player uni="04" name="ONONIWU, Chisa" shortname="C. ONONIWU" gs="0" checkyn="Y" oncourt="1" playing="1"/>
+    <player uni="05" name="FOX, Chanelle" shortname="C. FOX" gs="0" checkyn="Y" oncourt="1" playing="1"/>
+    <player uni="12" name="WYATT, Latoya" shortname="L. WYATT" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="13" name="JONES, Victoria" shortname="V. JONES" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="20" name="TISDALE, Angela" shortname="A. TISDALE" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="21" name="SCOTT, Chameka" shortname="C. SCOTT" gs="0" checkyn="N" oncourt="0" playing="0" pos="g"/>
+    <player uni="22" name="DAVIS, Jordan" shortname="J. DAVIS" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="25" name="HAMERLY, Melanie" shortname="M. HAMERLY" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="33" name="YOUNG, Sophia" shortname="S. YOUNG" gs="0" checkyn="N" oncourt="0" playing="0" pos="f"/>
+    <player uni="35" name="WABARA, Abiola" shortname="A. WABARA" gs="0" checkyn="N" oncourt="0" playing="0" pos="f"/>
+    <player uni="45" name="BLACKMON, Steffanie" shortname="S. BLACKMON" gs="0" checkyn="N" oncourt="0" playing="0" pos="c"/>
+    <player uni="51" name="NIEMANN, Emily" shortname="E. NIEMANN" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="TM" name="TEAM, " shortname=". TEAM" gs="0" checkyn="N" oncourt="0" playing="0"/>
+    <player uni="46" name="Watson, Alex" shortname="A. Watson" gs="0" checkyn="Y" oncourt="1" playing="1" pos="SG" ht="0-7" wt="185" class="Sr" hometown="Macon" highschool="Macon" min="10" fgm="10" fga="10" fgm3="10" fga3="10" ftm="10" fta="10" tp="10" oreb="3" dreb="2" treb="2" ast="4" turnover="4" stl="5" blk="4" pf="3"/>
   </team>
 
 </bbgame>
